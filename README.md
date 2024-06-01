@@ -1,2 +1,3 @@
 # Optimization-Modelling
 Optimization analysis for a $10,000 marketing budget allocation across online, social media, and print advertising channels.
+Utilizing a data-driven approach, I tailored revenue functions for each channel and used the Sequential Least Squares Programming (SLSQP) method to maximize total revenue. The results suggest allocating the majority of the budget to social media marketing for optimal revenue generation, with minimal funds allocated to online and print advertising channels. This analysis provides valuable insights for strategic budget allocation in marketing campaigns.
